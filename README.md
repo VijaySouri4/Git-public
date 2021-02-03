@@ -1,2 +1,2 @@
 # Git-public
-My project on cancer prediction.
+My projects to complete Udacity nano degree and Coursera courses on ML.s 
