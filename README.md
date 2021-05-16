@@ -1,2 +1,2 @@
 # Git-public
-Projects I completed for the Udacity nano degree and Coursera courses on ML.s 
+A collection of Machine Learning Projects which range from Sentiment Analysis to Data Science. 
